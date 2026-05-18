@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/iravasu/RiderProjects/PetShelter/PetShelter/PetShelter.csproj",
+      "projectUniqueName": "/Users/iravasu/kodiki_huediki/proj_spring/PetShelter.csproj",
       "projectName": "PetShelter",
-      "projectPath": "/Users/iravasu/RiderProjects/PetShelter/PetShelter/PetShelter.csproj",
+      "projectPath": "/Users/iravasu/kodiki_huediki/proj_spring/PetShelter.csproj",
       "packagesPath": "/Users/iravasu/.nuget/packages/",
-      "outputPath": "/Users/iravasu/RiderProjects/PetShelter/PetShelter/obj/",
+      "outputPath": "/Users/iravasu/kodiki_huediki/proj_spring/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/iravasu/.nuget/NuGet/NuGet.Config"
