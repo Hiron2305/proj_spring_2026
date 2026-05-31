@@ -1,0 +1,181 @@
+{
+  "$type": "System.Collections.Generic.List`1[[Model.Core.Shelter, Model]], System.Private.CoreLib",
+  "$values": [
+    {
+      "$type": "Model.Core.Shelter, Model",
+      "Name": "Усатый-полосатый",
+      "Capacity": 15,
+      "Openterritory": false,
+      "Pets": {
+        "$type": "System.Collections.Generic.List`1[[Model.Core.Pet, Model]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Model.Core.Cat, Model",
+            "Breed": "Дворняга",
+            "Castrate": true,
+            "PetDetails": "Кот (Порода: Дворняга, Каст.: True, Клаустрофобия: False)",
+            "Name": "Мурзик",
+            "Age": 3,
+            "Weight": 4.5,
+            "Gender": "Male",
+            "Claustrophobia": false
+          },
+          {
+            "$type": "Model.Core.Cat, Model",
+            "Breed": "Сиамская",
+            "Castrate": false,
+            "PetDetails": "Кот (Порода: Сиамская, Каст.: False, Клаустрофобия: False)",
+            "Name": "Алиса",
+            "Age": 2,
+            "Weight": 3.0,
+            "Gender": "Female",
+            "Claustrophobia": false
+          },
+          {
+            "$type": "Model.Core.Rabbit, Model",
+            "Children": 0,
+            "Colour": "Белый",
+            "PetDetails": "Кролик (Дети: 0, Цвет: Белый, Клаустрофобия: False)",
+            "Name": "Снежок",
+            "Age": 1,
+            "Weight": 1.2,
+            "Gender": "Male",
+            "Claustrophobia": false
+          },
+          {
+            "$type": "Model.Core.Dog, Model",
+            "Breed": "Дворняга",
+            "Castrate": true,
+            "PetDetails": "Собака (Порода: Дворняга, Каст.: True, Клаустрофобия: False)",
+            "Name": "Шарик",
+            "Age": 4,
+            "Weight": 10.0,
+            "Gender": "Male",
+            "Claustrophobia": false
+          }
+        ]
+      }
+    },
+    {
+      "$type": "Model.Core.Shelter, Model",
+      "Name": "Верный друг",
+      "Capacity": 20,
+      "Openterritory": true,
+      "Pets": {
+        "$type": "System.Collections.Generic.List`1[[Model.Core.Pet, Model]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Model.Core.Dog, Model",
+            "Breed": "Овчарка",
+            "Castrate": false,
+            "PetDetails": "Собака (Порода: Овчарка, Каст.: False, Клаустрофобия: True)",
+            "Name": "Рэкс",
+            "Age": 5,
+            "Weight": 12.5,
+            "Gender": "Male",
+            "Claustrophobia": true
+          },
+          {
+            "$type": "Model.Core.Dog, Model",
+            "Breed": "Лабрадор",
+            "Castrate": true,
+            "PetDetails": "Собака (Порода: Лабрадор, Каст.: True, Клаустрофобия: True)",
+            "Name": "Бобик",
+            "Age": 7,
+            "Weight": 15.0,
+            "Gender": "Male",
+            "Claustrophobia": true
+          },
+          {
+            "$type": "Model.Core.Cat, Model",
+            "Breed": "Мейн-кун",
+            "Castrate": false,
+            "PetDetails": "Кот (Порода: Мейн-кун, Каст.: False, Клаустрофобия: False)",
+            "Name": "Барсик",
+            "Age": 2,
+            "Weight": 5.0,
+            "Gender": "Male",
+            "Claustrophobia": false
+          },
+          {
+            "$type": "Model.Core.Rabbit, Model",
+            "Children": 2,
+            "Colour": "Серый",
+            "PetDetails": "Кролик (Дети: 2, Цвет: Серый, Клаустрофобия: False)",
+            "Name": "Крош",
+            "Age": 2,
+            "Weight": 1.5,
+            "Gender": "Male",
+            "Claustrophobia": false
+          },
+          {
+            "$type": "Model.Core.Dog, Model",
+            "Breed": "Корги",
+            "Castrate": false,
+            "PetDetails": "Собака (Порода: Корги, Каст.: False, Клаустрофобия: True)",
+            "Name": "Фокси",
+            "Age": 2,
+            "Weight": 8.0,
+            "Gender": "Female",
+            "Claustrophobia": true
+          }
+        ]
+      }
+    },
+    {
+      "$type": "Model.Core.Shelter, Model",
+      "Name": "Пушистый дом",
+      "Capacity": 10,
+      "Openterritory": true,
+      "Pets": {
+        "$type": "System.Collections.Generic.List`1[[Model.Core.Pet, Model]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Model.Core.Cat, Model",
+            "Breed": "Британская",
+            "Castrate": false,
+            "PetDetails": "Кот (Порода: Британская, Каст.: False, Клаустрофобия: False)",
+            "Name": "Симба",
+            "Age": 1,
+            "Weight": 2.5,
+            "Gender": "Male",
+            "Claustrophobia": false
+          },
+          {
+            "$type": "Model.Core.Rabbit, Model",
+            "Children": 0,
+            "Colour": "Белый",
+            "PetDetails": "Кролик (Дети: 0, Цвет: Белый, Клаустрофобия: True)",
+            "Name": "Пушинка",
+            "Age": 1,
+            "Weight": 1.0,
+            "Gender": "Female",
+            "Claustrophobia": true
+          },
+          {
+            "$type": "Model.Core.Dog, Model",
+            "Breed": "Хаски",
+            "Castrate": false,
+            "PetDetails": "Собака (Порода: Хаски, Каст.: False, Клаустрофобия: True)",
+            "Name": "Лайка",
+            "Age": 3,
+            "Weight": 10.0,
+            "Gender": "Female",
+            "Claustrophobia": true
+          },
+          {
+            "$type": "Model.Core.Cat, Model",
+            "Breed": "Сфинкс",
+            "Castrate": true,
+            "PetDetails": "Кот (Порода: Сфинкс, Каст.: True, Клаустрофобия: False)",
+            "Name": "Багира",
+            "Age": 5,
+            "Weight": 4.0,
+            "Gender": "Female",
+            "Claustrophobia": false
+          }
+        ]
+      }
+    }
+  ]
+}

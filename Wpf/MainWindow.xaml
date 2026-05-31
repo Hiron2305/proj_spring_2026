@@ -1,0 +1,25 @@
+﻿<Window x:Class="petchelterWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Главное меню" Height="450" Width="800" WindowStartupLocation="CenterScreen">
+    <StackPanel Margin="20">
+        <StackPanel Orientation="Horizontal" Margin="0,0,0,15">
+            <Label Content="Формат данных:" VerticalAlignment="Center" FontWeight="Bold"/>
+            <ComboBox x:Name="FormatComboBox" Width="100" SelectionChanged="FormatComboBox_SelectionChanged" Margin="10,0,0,0">
+                <ComboBoxItem Content="JSON" IsSelected="True"/>
+                <ComboBoxItem Content="XML"/>
+            </ComboBox>
+        </StackPanel>
+
+        <CheckBox x:Name="OpenTerritoryCheckBox" Content="Только приюты с открытой территорией" Margin="0,10,0,10"/>
+        <CheckBox x:Name="ClaustrophobiaCheckBox" Content="Только животные с клаустрофобией" Margin="0,0,0,10"/>
+
+        <Label Content="Выберите приют" />
+        <ComboBox x:Name="ShelterComboBox" Width="200" HorizontalAlignment="Left" />
+
+        <Label Content="Выберите вид животного" Margin="0,10,0,0" />
+        <ComboBox x:Name="ShelterComboBoxPetName" Width="200" HorizontalAlignment="Left" />
+
+        <Button Content="Показать питомцев" Click="ShowPets_Click" Width="150" Margin="0,20,0,0" HorizontalAlignment="Left" Height="30"/>
+    </StackPanel>
+</Window>
