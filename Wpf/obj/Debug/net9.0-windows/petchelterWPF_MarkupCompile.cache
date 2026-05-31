@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\root\source\repos\petchelterWPF\petchelterWPF\obj\Debug\net9.0-windows\
+C:\Users\root\source\repos\petchelterWPF\Wpf\obj\Debug\net9.0-windows\
 petchelterWPF
 none
 false
 TRACE;DEBUG;NET;NET9_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NET9_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
-C:\Users\root\source\repos\petchelterWPF\petchelterWPF\App.xaml
-2-802637660
+C:\Users\root\source\repos\petchelterWPF\Wpf\App.xaml
+32045191191
 
-5-1313063479
+6-946186233
 202-62043773
-MainWindow.xaml;PetsWindow.xaml;
+AddPetWindow.xaml;MainWindow.xaml;PetsWindow.xaml;
 
 False
 

@@ -35,40 +35,24 @@ namespace petchelterWPF
 
         private void AddPet_Click(object sender, RoutedEventArgs e)
         {
-            try
+            AddPetWindow addWindow = new AddPetWindow();
+            addWindow.Owner = this;
+
+            if (addWindow.ShowDialog() == true && addWindow.CreatedPet != null)
             {
-                Pet newPet = null;
-
-                Type targetType = _pets.Count > 0 ? _pets[0].GetType() : typeof(Dog);
-
-                if (_pets.Count > 0 && !_pets.TrueForAll(p => p.GetType() == targetType))
+                try
                 {
-                    targetType = typeof(Dog);
-                }
+                    _contextShelter += addWindow.CreatedPet;
 
-                if (targetType == typeof(Cat))
-                {
-                    newPet = new Cat("Новый Кот", 1, 2.0, "Male", "Тест-порода", false, false);
+                    _pets.Add(addWindow.CreatedPet);
+                    UpdateDatabase();
+                    RefreshGrid();
+                    MessageBox.Show($"Питомец «{addWindow.CreatedPet.Name}» успешно добавлен в приют!", "Успех", MessageBoxButton.OK, MessageBoxImage.Information);
                 }
-                else if (targetType == typeof(Dog))
+                catch (Exception ex)
                 {
-                    newPet = new Dog("Фокси", 2, 8.0, "Female", "Корги", false, true);
+                    MessageBox.Show(ex.Message, "Отклонено", MessageBoxButton.OK, MessageBoxImage.Error);
                 }
-                else if (targetType == typeof(Rabbit))
-                {
-                    newPet = new Rabbit("Новый Заяц", 1, 1.0, "Male", 0, "Белый", false);
-                }
-
-                _contextShelter += newPet;
-
-                _pets.Add(newPet);
-                UpdateDatabase();
-                RefreshGrid();
-                MessageBox.Show($"Питомец «{newPet.Name}» успешно добавлен!");
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show($"Ошибка добавления: {ex.Message}", "Ошибка", MessageBoxButton.OK, MessageBoxImage.Error);
             }
         }
 

@@ -80,11 +80,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\root\\source\\repos\\petchelterWPF\\petchelterWPF\\petchelterWPF.csproj",
+      "projectUniqueName": "C:\\Users\\root\\source\\repos\\petchelterWPF\\Wpf\\petchelterWPF.csproj",
       "projectName": "petchelterWPF",
-      "projectPath": "C:\\Users\\root\\source\\repos\\petchelterWPF\\petchelterWPF\\petchelterWPF.csproj",
+      "projectPath": "C:\\Users\\root\\source\\repos\\petchelterWPF\\Wpf\\petchelterWPF.csproj",
       "packagesPath": "C:\\Users\\root\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\root\\source\\repos\\petchelterWPF\\petchelterWPF\\obj\\",
+      "outputPath": "C:\\Users\\root\\source\\repos\\petchelterWPF\\Wpf\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

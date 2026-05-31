@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("petchelterWPF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fbd8863b8aebefbb1396ceb9831a3864bb169557")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df3da50aec29c313b1d59fcf0502ba2dc1e93d45")]
 [assembly: System.Reflection.AssemblyProductAttribute("petchelterWPF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("petchelterWPF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

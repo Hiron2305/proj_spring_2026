@@ -3,24 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\root\\source\\repos\\petchelterWPF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C7038A36-A86F-4129-83EA-4E0168E9CA19}|petchelterWPF\\petchelterWPF.csproj|c:\\users\\root\\source\\repos\\petchelterwpf\\petchelterwpf\\petswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C7038A36-A86F-4129-83EA-4E0168E9CA19}|petchelterWPF\\petchelterWPF.csproj|solutionrelative:petchelterwpf\\petswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A7C8AE68-D628-5401-6796-7BB9D0416393}|Wpf\\petchelterWPF.csproj|c:\\users\\root\\source\\repos\\petchelterwpf\\wpf\\petswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C8AE68-D628-5401-6796-7BB9D0416393}|Wpf\\petchelterWPF.csproj|solutionrelative:wpf\\petswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7038A36-A86F-4129-83EA-4E0168E9CA19}|petchelterWPF\\petchelterWPF.csproj|c:\\users\\root\\source\\repos\\petchelterwpf\\petchelterwpf\\petswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7038A36-A86F-4129-83EA-4E0168E9CA19}|petchelterWPF\\petchelterWPF.csproj|solutionrelative:petchelterwpf\\petswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7C8AE68-D628-5401-6796-7BB9D0416393}|Wpf\\petchelterWPF.csproj|c:\\users\\root\\source\\repos\\petchelterwpf\\wpf\\petswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A7C8AE68-D628-5401-6796-7BB9D0416393}|Wpf\\petchelterWPF.csproj|solutionrelative:wpf\\petswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7038A36-A86F-4129-83EA-4E0168E9CA19}|petchelterWPF\\petchelterWPF.csproj|c:\\users\\root\\source\\repos\\petchelterwpf\\petchelterwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7038A36-A86F-4129-83EA-4E0168E9CA19}|petchelterWPF\\petchelterWPF.csproj|solutionrelative:petchelterwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7C8AE68-D628-5401-6796-7BB9D0416393}|Wpf\\petchelterWPF.csproj|c:\\users\\root\\source\\repos\\petchelterwpf\\wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C8AE68-D628-5401-6796-7BB9D0416393}|Wpf\\petchelterWPF.csproj|solutionrelative:wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7038A36-A86F-4129-83EA-4E0168E9CA19}|petchelterWPF\\petchelterWPF.csproj|c:\\users\\root\\source\\repos\\petchelterwpf\\petchelterwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C7038A36-A86F-4129-83EA-4E0168E9CA19}|petchelterWPF\\petchelterWPF.csproj|solutionrelative:petchelterwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A7C8AE68-D628-5401-6796-7BB9D0416393}|Wpf\\petchelterWPF.csproj|c:\\users\\root\\source\\repos\\petchelterwpf\\wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A7C8AE68-D628-5401-6796-7BB9D0416393}|Wpf\\petchelterWPF.csproj|solutionrelative:wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7038A36-A86F-4129-83EA-4E0168E9CA19}|petchelterWPF\\petchelterWPF.csproj|c:\\users\\root\\source\\repos\\petchelterwpf\\petchelterwpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7038A36-A86F-4129-83EA-4E0168E9CA19}|petchelterWPF\\petchelterWPF.csproj|solutionrelative:petchelterwpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7C8AE68-D628-5401-6796-7BB9D0416393}|Wpf\\petchelterWPF.csproj|c:\\users\\root\\source\\repos\\petchelterwpf\\wpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C8AE68-D628-5401-6796-7BB9D0416393}|Wpf\\petchelterWPF.csproj|solutionrelative:wpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C8AE68-D628-5401-6796-7BB9D0416393}|Wpf\\petchelterWPF.csproj|c:\\users\\root\\source\\repos\\petchelterwpf\\wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C8AE68-D628-5401-6796-7BB9D0416393}|Wpf\\petchelterWPF.csproj|solutionrelative:wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C8AE68-D628-5401-6796-7BB9D0416393}|Wpf\\petchelterWPF.csproj|c:\\users\\root\\source\\repos\\petchelterwpf\\wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A7C8AE68-D628-5401-6796-7BB9D0416393}|Wpf\\petchelterWPF.csproj|solutionrelative:wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C8AE68-D628-5401-6796-7BB9D0416393}|Wpf\\petchelterWPF.csproj|c:\\users\\root\\source\\repos\\petchelterwpf\\wpf\\addpetwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A7C8AE68-D628-5401-6796-7BB9D0416393}|Wpf\\petchelterWPF.csproj|solutionrelative:wpf\\addpetwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C8AE68-D628-5401-6796-7BB9D0416393}|Wpf\\petchelterWPF.csproj|c:\\users\\root\\source\\repos\\petchelterwpf\\wpf\\addpetwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C8AE68-D628-5401-6796-7BB9D0416393}|Wpf\\petchelterWPF.csproj|solutionrelative:wpf\\addpetwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{01A48796-B835-4942-9BCC-C64F0B8EFF8E}|Model\\Model.csproj|c:\\users\\root\\source\\repos\\petchelterwpf\\model\\data\\serializers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,8 +71,32 @@
       "RelativeMoniker": "D:0:0:{01A48796-B835-4942-9BCC-C64F0B8EFF8E}|Model\\Model.csproj|solutionrelative:model\\core\\animals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7038A36-A86F-4129-83EA-4E0168E9CA19}|petchelterWPF\\petchelterWPF.csproj|c:\\users\\root\\source\\repos\\petchelterwpf\\petchelterwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C7038A36-A86F-4129-83EA-4E0168E9CA19}|petchelterWPF\\petchelterWPF.csproj|solutionrelative:petchelterwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A7C8AE68-D628-5401-6796-7BB9D0416393}|Wpf\\petchelterWPF.csproj|c:\\users\\root\\source\\repos\\petchelterwpf\\wpf\\petchelterwpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A7C8AE68-D628-5401-6796-7BB9D0416393}|Wpf\\petchelterWPF.csproj|solutionrelative:wpf\\petchelterwpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\root\\source\\repos\\petchelterWPF\\petchelterWPF\\PetsWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:petchelterWPF\\PetsWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\root\\source\\repos\\petchelterWPF\\petchelterWPF\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:petchelterWPF\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\root\\source\\repos\\petchelterWPF\\petchelterWPF\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:petchelterWPF\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\root\\source\\repos\\petchelterWPF\\petchelterWPF\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:petchelterWPF\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\root\\source\\repos\\petchelterWPF\\petchelterWPF\\PetsWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:petchelterWPF\\PetsWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\root\\source\\repos\\petchelterWPF\\petchelterWPF\\App.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:petchelterWPF\\App.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,7 +106,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,43 +118,95 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Pet.cs",
-              "DocumentMoniker": "C:\\Users\\root\\source\\repos\\petchelterWPF\\Model\\Core\\Pet.cs",
-              "RelativeDocumentMoniker": "Model\\Core\\Pet.cs",
-              "ToolTip": "C:\\Users\\root\\source\\repos\\petchelterWPF\\Model\\Core\\Pet.cs",
-              "RelativeToolTip": "Model\\Core\\Pet.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-31T15:58:20.802Z"
+              "DocumentIndex": 1,
+              "Title": "PetsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\root\\source\\repos\\petchelterWPF\\Wpf\\PetsWindow.xaml",
+              "RelativeDocumentMoniker": "Wpf\\PetsWindow.xaml",
+              "ToolTip": "C:\\Users\\root\\source\\repos\\petchelterWPF\\Wpf\\PetsWindow.xaml",
+              "RelativeToolTip": "Wpf\\PetsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-31T17:21:13.153Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Pet_Claustrophobia.cs",
-              "DocumentMoniker": "C:\\Users\\root\\source\\repos\\petchelterWPF\\Model\\Core\\Pet_Claustrophobia.cs",
-              "RelativeDocumentMoniker": "Model\\Core\\Pet_Claustrophobia.cs",
-              "ToolTip": "C:\\Users\\root\\source\\repos\\petchelterWPF\\Model\\Core\\Pet_Claustrophobia.cs",
-              "RelativeToolTip": "Model\\Core\\Pet_Claustrophobia.cs",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\root\\source\\repos\\petchelterWPF\\Wpf\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Wpf\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\root\\source\\repos\\petchelterWPF\\Wpf\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Wpf\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T17:21:08.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\root\\source\\repos\\petchelterWPF\\Wpf\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Wpf\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\root\\source\\repos\\petchelterWPF\\Wpf\\MainWindow.xaml",
+              "RelativeToolTip": "Wpf\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-31T17:21:03.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\root\\source\\repos\\petchelterWPF\\Wpf\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Wpf\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\root\\source\\repos\\petchelterWPF\\Wpf\\App.xaml.cs",
+              "RelativeToolTip": "Wpf\\App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-31T15:58:40.816Z"
+              "WhenOpened": "2026-05-31T17:20:58.778Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\root\\source\\repos\\petchelterWPF\\Wpf\\App.xaml",
+              "RelativeDocumentMoniker": "Wpf\\App.xaml",
+              "ToolTip": "C:\\Users\\root\\source\\repos\\petchelterWPF\\Wpf\\App.xaml",
+              "RelativeToolTip": "Wpf\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-31T17:08:40.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\root\\source\\repos\\petchelterWPF\\Wpf\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Wpf\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\root\\source\\repos\\petchelterWPF\\Wpf\\AssemblyInfo.cs",
+              "RelativeToolTip": "Wpf\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T17:09:07.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Shelter.cs",
               "DocumentMoniker": "C:\\Users\\root\\source\\repos\\petchelterWPF\\Model\\Core\\Shelter.cs",
               "RelativeDocumentMoniker": "Model\\Core\\Shelter.cs",
               "ToolTip": "C:\\Users\\root\\source\\repos\\petchelterWPF\\Model\\Core\\Shelter.cs",
               "RelativeToolTip": "Model\\Core\\Shelter.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAkwCcAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwCcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-31T15:58:43.247Z"
+              "WhenOpened": "2026-05-31T15:58:43.247Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Shelter_IChangable.cs",
               "DocumentMoniker": "C:\\Users\\root\\source\\repos\\petchelterWPF\\Model\\Core\\Shelter_IChangable.cs",
               "RelativeDocumentMoniker": "Model\\Core\\Shelter_IChangable.cs",
@@ -122,35 +214,141 @@
               "RelativeToolTip": "Model\\Core\\Shelter_IChangable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-31T15:59:06.663Z"
+              "WhenOpened": "2026-05-31T15:59:06.663Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "DataManager.cs",
               "DocumentMoniker": "C:\\Users\\root\\source\\repos\\petchelterWPF\\Model\\Data\\DataManager.cs",
               "RelativeDocumentMoniker": "Model\\Data\\DataManager.cs",
               "ToolTip": "C:\\Users\\root\\source\\repos\\petchelterWPF\\Model\\Data\\DataManager.cs",
               "RelativeToolTip": "Model\\Data\\DataManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAABVAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwBAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-31T15:59:19.756Z"
+              "WhenOpened": "2026-05-31T15:59:19.756Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "PetsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\root\\source\\repos\\petchelterWPF\\Wpf\\PetsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Wpf\\PetsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\root\\source\\repos\\petchelterWPF\\Wpf\\PetsWindow.xaml.cs",
+              "RelativeToolTip": "Wpf\\PetsWindow.xaml.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAmwHIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T17:14:56.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Pet_Claustrophobia.cs",
+              "DocumentMoniker": "C:\\Users\\root\\source\\repos\\petchelterWPF\\Model\\Core\\Pet_Claustrophobia.cs",
+              "RelativeDocumentMoniker": "Model\\Core\\Pet_Claustrophobia.cs",
+              "ToolTip": "C:\\Users\\root\\source\\repos\\petchelterWPF\\Model\\Core\\Pet_Claustrophobia.cs",
+              "RelativeToolTip": "Model\\Core\\Pet_Claustrophobia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T15:58:40.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "C:\\Users\\root\\source\\repos\\petchelterWPF\\Model\\Core\\Pet.cs",
+              "RelativeDocumentMoniker": "Model\\Core\\Pet.cs",
+              "ToolTip": "C:\\Users\\root\\source\\repos\\petchelterWPF\\Model\\Core\\Pet.cs",
+              "RelativeToolTip": "Model\\Core\\Pet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T15:58:20.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Serializers.cs",
               "DocumentMoniker": "C:\\Users\\root\\source\\repos\\petchelterWPF\\Model\\Data\\Serializers.cs",
               "RelativeDocumentMoniker": "Model\\Data\\Serializers.cs",
               "ToolTip": "C:\\Users\\root\\source\\repos\\petchelterWPF\\Model\\Data\\Serializers.cs",
               "RelativeToolTip": "Model\\Data\\Serializers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAuwAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-31T16:00:08.838Z"
+              "WhenOpened": "2026-05-31T16:00:08.838Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
+              "Title": "AddPetWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\root\\source\\repos\\petchelterWPF\\Wpf\\AddPetWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Wpf\\AddPetWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\root\\source\\repos\\petchelterWPF\\Wpf\\AddPetWindow.xaml.cs",
+              "RelativeToolTip": "Wpf\\AddPetWindow.xaml.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwEEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T17:14:29.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddPetWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\root\\source\\repos\\petchelterWPF\\Wpf\\AddPetWindow.xaml",
+              "RelativeDocumentMoniker": "Wpf\\AddPetWindow.xaml",
+              "ToolTip": "C:\\Users\\root\\source\\repos\\petchelterWPF\\Wpf\\AddPetWindow.xaml",
+              "RelativeToolTip": "Wpf\\AddPetWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-31T17:13:54.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Interfaces.cs",
+              "DocumentMoniker": "C:\\Users\\root\\source\\repos\\petchelterWPF\\Model\\Core\\Interfaces.cs",
+              "RelativeDocumentMoniker": "Model\\Core\\Interfaces.cs",
+              "ToolTip": "C:\\Users\\root\\source\\repos\\petchelterWPF\\Model\\Core\\Interfaces.cs",
+              "RelativeToolTip": "Model\\Core\\Interfaces.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T15:58:09.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Animals.cs",
+              "DocumentMoniker": "C:\\Users\\root\\source\\repos\\petchelterWPF\\Model\\Core\\Animals.cs",
+              "RelativeDocumentMoniker": "Model\\Core\\Animals.cs",
+              "ToolTip": "C:\\Users\\root\\source\\repos\\petchelterWPF\\Model\\Core\\Animals.cs",
+              "RelativeToolTip": "Model\\Core\\Animals.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAywBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T15:57:42.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "petchelterWPF",
+              "DocumentMoniker": "C:\\Users\\root\\source\\repos\\petchelterWPF\\Wpf\\petchelterWPF.csproj",
+              "RelativeDocumentMoniker": "Wpf\\petchelterWPF.csproj",
+              "ToolTip": "C:\\Users\\root\\source\\repos\\petchelterWPF\\Wpf\\petchelterWPF.csproj",
+              "RelativeToolTip": "Wpf\\petchelterWPF.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-31T17:08:24.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\root\\source\\repos\\petchelterWPF\\petchelterWPF\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "petchelterWPF\\AssemblyInfo.cs",
@@ -162,7 +360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 20,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\root\\source\\repos\\petchelterWPF\\petchelterWPF\\MainWindow.xaml",
               "RelativeDocumentMoniker": "petchelterWPF\\MainWindow.xaml",
@@ -173,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 21,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\root\\source\\repos\\petchelterWPF\\petchelterWPF\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "petchelterWPF\\MainWindow.xaml.cs",
@@ -185,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 22,
               "Title": "PetsWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\root\\source\\repos\\petchelterWPF\\petchelterWPF\\PetsWindow.xaml.cs",
               "RelativeDocumentMoniker": "petchelterWPF\\PetsWindow.xaml.cs",
@@ -193,56 +391,29 @@
               "RelativeToolTip": "petchelterWPF\\PetsWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAowBEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-31T16:02:01.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-31T16:02:01.479Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 18,
               "Title": "PetsWindow.xaml",
               "DocumentMoniker": "C:\\Users\\root\\source\\repos\\petchelterWPF\\petchelterWPF\\PetsWindow.xaml",
               "RelativeDocumentMoniker": "petchelterWPF\\PetsWindow.xaml",
               "ToolTip": "C:\\Users\\root\\source\\repos\\petchelterWPF\\petchelterWPF\\PetsWindow.xaml",
               "RelativeToolTip": "petchelterWPF\\PetsWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-31T16:01:53.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-31T16:01:53.838Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Interfaces.cs",
-              "DocumentMoniker": "C:\\Users\\root\\source\\repos\\petchelterWPF\\Model\\Core\\Interfaces.cs",
-              "RelativeDocumentMoniker": "Model\\Core\\Interfaces.cs",
-              "ToolTip": "C:\\Users\\root\\source\\repos\\petchelterWPF\\Model\\Core\\Interfaces.cs",
-              "RelativeToolTip": "Model\\Core\\Interfaces.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-31T15:58:09.5Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Animals.cs",
-              "DocumentMoniker": "C:\\Users\\root\\source\\repos\\petchelterWPF\\Model\\Core\\Animals.cs",
-              "RelativeDocumentMoniker": "Model\\Core\\Animals.cs",
-              "ToolTip": "C:\\Users\\root\\source\\repos\\petchelterWPF\\Model\\Core\\Animals.cs",
-              "RelativeToolTip": "Model\\Core\\Animals.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-31T15:57:42.871Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 23,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\root\\source\\repos\\petchelterWPF\\petchelterWPF\\App.xaml",
               "RelativeDocumentMoniker": "petchelterWPF\\App.xaml",
               "ToolTip": "C:\\Users\\root\\source\\repos\\petchelterWPF\\petchelterWPF\\App.xaml",
               "RelativeToolTip": "petchelterWPF\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-31T16:00:24.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-31T16:00:24.122Z"
             }
           ]
         }
